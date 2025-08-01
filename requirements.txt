@@ -1,6 +1,8 @@
 streamlit
-streamlit-authenticator
+streamlit-authenticator==0.2.2
 pandas
-numpy
 sqlalchemy
 openai
+matplotlib
+dotenv
+xlsxwriter
